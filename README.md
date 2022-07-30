@@ -1,11 +1,12 @@
-<h2> Hi, I'm Lidia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1> Hi, I'm Lidia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"></h1>
 
+Under construction </> <img src="https://media.giphy.com/media/1XgIXQEzBu6ZWappVu/giphy.gif" width="90">
 
-</br>Front-End Web Developer <a href=""></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</br>Front-End Web Developer 
 
-* 🖥️  PORTFOLIO: [Here](http://lidiaherna.github.io/)
+* 🖥️  Portfolio: [Here](http://lidiaherna.github.io/)
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/LidiaHerna/) 
+* [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/LidiaHerna/) 
 
 ## SKILLS
 
