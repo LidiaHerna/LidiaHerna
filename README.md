@@ -8,7 +8,7 @@ Under construction </> <img src="https://media.giphy.com/media/1XgIXQEzBu6ZWappV
 
 * [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/LidiaHerna/) 
 
-## 📚 SKILLS
+### 📚 SKILLS
 
 ```
 let  = skills [
