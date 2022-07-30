@@ -45,5 +45,3 @@ let  = skills [
   <a href="http://www.github.com/LidiaHerna"><img src="https://github-readme-stats.vercel.app/api?username=LidiaHerna&show_icons=true&hide=&count_private=true&title_color=55f78e&text_color=ffffff&icon_color=e0b487&bg_color=22272e&hide_border=true&show_icons=true" alt="LidiaHerna's GitHub stats" /></a>
   <a href="http://www.github.com/LidiaHerna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LidiaHerna&stroke=ffffff&background=22272e&ring=fff675&fire=e0b487&currStreakNum=ffffff&currStreakLabel=e0b487&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://github.com/LidiaHerna"/></a>
