@@ -36,13 +36,13 @@ let  = skills [
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
 
-## 🗂️ TOP PROJECTS
+###🗂️ TOP PROJECTS
 
 <a href="https://github.com/LidiaHerna">
   <img align="center" src="" />
 </a>
 
-## 📊 GITHUB STATS
+### 📊 GITHUB STATS
   <a href="http://www.github.com/LidiaHerna"><img src="https://github-readme-stats.vercel.app/api?username=LidiaHerna&show_icons=true&hide=&count_private=true&title_color=55f78e&text_color=ffffff&icon_color=e0b487&bg_color=22272e&hide_border=true&show_icons=true" alt="LidiaHerna's GitHub stats" /></a>
   <a href="http://www.github.com/LidiaHerna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LidiaHerna&stroke=ffffff&background=22272e&ring=fff675&fire=e0b487&currStreakNum=ffffff&currStreakLabel=e0b487&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
