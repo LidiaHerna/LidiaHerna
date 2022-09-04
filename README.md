@@ -2,6 +2,8 @@
 
 Under construction </> <img src="https://media.giphy.com/media/1XgIXQEzBu6ZWappVu/giphy.gif" width="90">
 
+### 💬 About me.
+
 </br>Front-End Web Developer 
 
 * 🖥️  Portfolio: [Here](http://lidiaherna.github.io/)
