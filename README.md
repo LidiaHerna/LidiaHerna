@@ -1,8 +1,9 @@
 ![](./headerGithub.png)
 ![headerGithub](https://github.com/LidiaHerna/LidiaHerna/assets/47499355/22314b10-acab-46b2-a47f-bdf5f756c697)
-### 💬 ABOUT ME
+### 💬 About Me  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> 
 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 specializing in 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 (JavaScript ES6 • HTML 5 • CSS 3 • React) with knowledge in user 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝘂𝘀𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲 design (Figma).
 I am passionate about the challenges of programming and the satisfaction of finding solutions to problems.
+</br>
 </br>
 ### 👨‍💻 Front-End
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -21,7 +22,7 @@ I am passionate about the challenges of programming and the satisfaction of find
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-
+  
 ### 🗂️ Top Proyects
 
 <a href="https://github.com/LidiaHerna">
@@ -33,5 +34,3 @@ I am passionate about the challenges of programming and the satisfaction of find
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LidiaHerna&show_icons=true&locale=en&layout=compact&bg_color=22272e&text_color=ffffff" alt="LidiaHerna" /></p>
 
-Have a nice day!
- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
