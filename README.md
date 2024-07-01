@@ -1,8 +1,5 @@
 ![](./headerGithub.png)
 ![headerGithub](https://github.com/LidiaHerna/LidiaHerna/assets/47499355/22314b10-acab-46b2-a47f-bdf5f756c697)
-
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100">
-
 ### 💬 ABOUT ME
 </br>Front-End Web Developer 
 
@@ -36,7 +33,6 @@
 </a>
 
 ### 📊 GITHUB STATS
-  <a href="http://www.github.com/LidiaHerna"><img src="https://github-readme-stats.vercel.app/api?username=LidiaHerna&show_icons=true&hide=&count_private=true&title_color=55f78e&text_color=ffffff&icon_color=e0b487&bg_color=22272e&hide_border=true&show_icons=true" alt="LidiaHerna's GitHub stats" /></a>
   <a href="http://www.github.com/LidiaHerna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LidiaHerna&stroke=ffffff&background=22272e&ring=fff675&fire=e0b487&currStreakNum=ffffff&currStreakLabel=e0b487&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LidiaHerna&show_icons=true&locale=en&layout=compact&bg_color=22272e&text_color=ffffff" alt="LidiaHerna" /></p>
