@@ -1,7 +1,7 @@
 ![](./headerGithub.png)
 ![headerGithub](https://github.com/LidiaHerna/LidiaHerna/assets/47499355/22314b10-acab-46b2-a47f-bdf5f756c697)
 ### 💬 About Me  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> 
-𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 specializing in 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 (JavaScript ES6 • HTML 5 • CSS 3 • React) with knowledge in user 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝘂𝘀𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲 design (Figma).
+𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 specializing in 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 (JavaScript ES6 • HTML 5 • CSS 3 • React) with knowledge in user 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝘂𝘀𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲 design.
 I am passionate about the challenges of programming and the satisfaction of finding solutions to problems.
 </br>
 </br>
@@ -13,7 +13,6 @@ I am passionate about the challenges of programming and the satisfaction of find
   <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></a>
 
 ### 🗄️ Back-End
   <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
@@ -22,6 +21,9 @@ I am passionate about the challenges of programming and the satisfaction of find
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+
+### Others
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></a>
   
 ### 🗂️ Top Proyects
 
