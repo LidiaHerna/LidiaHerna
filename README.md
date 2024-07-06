@@ -24,15 +24,17 @@ I am passionate about the challenges of programming and the satisfaction of find
 
 ### Others
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></a>
-  
+</br>
+</br>
 ### 🗂️ Top Proyects
 
 <a href="https://github.com/LidiaHerna">
   <img align="center" src="" />
 </a>
+</br>
+</br>
 
 ### 📊 Stats
-  <a href="http://www.github.com/LidiaHerna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LidiaHerna&stroke=ffffff&background=22272e&ring=fff675&fire=e0b487&currStreakNum=ffffff&currStreakLabel=e0b487&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/LidiaHerna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LidiaHerna&stroke=ffffff&background=22272e&ring=fff675&fire=00D7B4&currStreakNum=ffffff&currStreakLabel=00D7B4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LidiaHerna&show_icons=true&locale=en&layout=compact&bg_color=22272e&text_color=ffffff" alt="LidiaHerna" /></p>
 
