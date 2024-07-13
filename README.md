@@ -54,12 +54,10 @@ I am passionate about the challenges of programming and the satisfaction of find
 
 </br>
 
-### 📊 Stats
+### 📈 Stats
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lidiaherna&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lidiaherna&layout=donut&theme=gotham)
 
 </br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  
-
