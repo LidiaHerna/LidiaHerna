@@ -18,6 +18,7 @@ I am passionate about the challenges of programming and the satisfaction of find
 
 ### Stack
 [![Mern](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4)](https://skillicons.dev)
+[![UXUI](https://skillicons.dev/icons?i=figma,xd,ps,ai&perline=4)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="950"/>
 
