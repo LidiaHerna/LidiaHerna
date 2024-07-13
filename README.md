@@ -20,8 +20,8 @@ I am passionate about the challenges of programming and the satisfaction of find
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="950"/>
 
-### ⚡ Tech Stack
-### 💻 Front-End
+## Tech Stack
+### 💻 Front
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,7 +32,7 @@ I am passionate about the challenges of programming and the satisfaction of find
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Back-End
+### 🗄️ Back
 ![Oracle](https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
@@ -58,6 +58,6 @@ I am passionate about the challenges of programming and the satisfaction of find
 
 </br>
 
-### 📈 Stats
+## 📈 Stats
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lidiaherna&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lidiaherna&layout=donut&theme=gotham)
