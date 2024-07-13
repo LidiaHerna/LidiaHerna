@@ -20,8 +20,9 @@ I am passionate about the challenges of programming and the satisfaction of find
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="950"/>
 
-### ⚡ Technologies
+### ⚡ Tech Stack
 ### 💻 Front-End
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -60,10 +61,3 @@ I am passionate about the challenges of programming and the satisfaction of find
 ### 📈 Stats
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lidiaherna&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lidiaherna&layout=donut&theme=gotham)
-
-</br>
-
-
-
-
-
