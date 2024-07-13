@@ -16,15 +16,13 @@ I am passionate about the challenges of programming and the satisfaction of find
 [![My_Portfolio](https://img.shields.io/badge/my_portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lidiaherna.dev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lidiaherna/)
 
-</br>
-
 ### Stack
 
 [![Mern](https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="950"/>
 
-<!-- ### 🗂️ Top Projects
+### 🚀 Top Projects
 
 <a href="https://github.com/LidiaHerna">
   <img align="center" src="" />
