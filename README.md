@@ -1,13 +1,15 @@
 ![](./headerGithub.png)
 ![headerGithub](https://github.com/LidiaHerna/LidiaHerna/assets/47499355/22314b10-acab-46b2-a47f-bdf5f756c697)
 
-### 💬 About Me  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> 
+### <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>  About Me  
 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 specializing in 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 (JavaScript ES6 • HTML 5 • CSS 3 • React) with knowledge in user 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝘂𝘀𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲 design.
+
+
 I am passionate about the challenges of programming and the satisfaction of finding solutions to problems.
 
 </br>
 
-🌚 I prefer dark mode cuz light attracts bugs 🌚
+🌠  I prefer dark mode cuz light attracts bugs 🌠 
 
 </br>
 
@@ -16,8 +18,9 @@ I am passionate about the challenges of programming and the satisfaction of find
 
 </br>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 
+### ⚡ Technologies
 ### 💻 Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
