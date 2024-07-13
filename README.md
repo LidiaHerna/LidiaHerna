@@ -55,9 +55,8 @@ I am passionate about the challenges of programming and the satisfaction of find
 </br>
 
 ### 📊 Stats
-![Profile_details_card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lidiaherna&theme=gotham&card_width=320)
-![Stars](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lidiaherna&theme=gotham&card_width=320)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lidiaherna&layout=donut&theme=gotham&card_width=320)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lidiaherna&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lidiaherna&layout=donut&theme=gotham)
 
 </br>
 
