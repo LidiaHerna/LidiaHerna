@@ -26,7 +26,7 @@ I am passionate about the challenges of programming and the satisfaction of find
 
 <a href="https://github.com/LidiaHerna">
   <img align="center" src="" />
-</a> -->
+</a>
 
 </br>
 
