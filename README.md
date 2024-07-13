@@ -59,5 +59,6 @@ I am passionate about the challenges of programming and the satisfaction of find
 </br>
 
 ## 📈 Stats
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lidiaherna?cardType=octocat&theme=gotham&preferLogin=false&Title=00D6B4B4&Border=000000)](https://git.io/awesome-stats-card)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lidiaherna&layout=donut&theme=gotham)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lidiaherna&theme=gotham)
