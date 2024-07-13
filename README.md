@@ -20,7 +20,7 @@ I am passionate about the challenges of programming and the satisfaction of find
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="950"/>
 
-## Tech Stack
+### Tech Stack
 ### 💻 Front
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,7 +58,7 @@ I am passionate about the challenges of programming and the satisfaction of find
 
 </br>
 
-## 📈 Stats
+### 📈 Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lidiaherna?cardType=octocat&theme=gotham&preferLogin=false&Title=00D6B4B4&Border=000000)](https://git.io/awesome-stats-card)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lidiaherna&layout=donut&theme=gotham)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LidiaHerna&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="LidiaHerna's GitHub Stats" />
