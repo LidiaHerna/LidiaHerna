@@ -2,7 +2,7 @@
 ![headerGithub](https://github.com/LidiaHerna/LidiaHerna/assets/47499355/22314b10-acab-46b2-a47f-bdf5f756c697)
 
 ### <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>  About Me  
-𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 specializing in 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 (JavaScript ES6 • HTML 5 • CSS 3 • React) with knowledge in user 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝘂𝘀𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲 design.
+𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 specializing in 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 with knowledge in user 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝘂𝘀𝗲𝗿 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲 design.
 
 I am passionate about the challenges of programming and the satisfaction of finding solutions to problems.
 
