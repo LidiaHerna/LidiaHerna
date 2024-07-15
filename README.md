@@ -8,7 +8,7 @@ I am passionate about the challenges of programming and the satisfaction of find
 
 </br>
 
-🌚 Prefer dark mode because light attracts bugs 🌚
+🌚 I prefer dark mode because light attracts bugs 🐞 
 
 </br>
 
